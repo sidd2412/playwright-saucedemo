@@ -94,6 +94,9 @@ To control whether Playwright runs in headless or headed mode using the `HEADLES
 - **Headed mode (see browser actions):**
   ```bash
   HEADLESS=false npx playwright test
+  OR
+  $env:HEADLESS="false"
+  npx playwright test
   ```
 
 > 💡 Ensure configuration (`config.js` or `playwright.config.js`) reads this `HEADLESS` value to toggle modes dynamically.
