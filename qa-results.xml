@@ -1,0 +1,11 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="5.266173">
+<testsuite name="TC_01_checkoutWorkflow.test.js" timestamp="2025-05-18T18:19:03.487Z" hostname="Chrome" tests="1" failures="0" skipped="0" time="2.591" errors="0">
+<testcase name="Complete E2E Flow" classname="TC_01_checkoutWorkflow.test.js" time="2.591">
+<system-out>
+<![CDATA[Adding to cart: Sauce Labs Fleece Jacket - $49.99
+Adding to cart: Sauce Labs Backpack - $29.99
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
