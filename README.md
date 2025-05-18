@@ -43,6 +43,8 @@ This project uses **Playwright (JavaScript)** for end-to-end testing of the [Sau
 2. **Install dependencies**
    ```bash
    npm install
+   (Optional) if its a fresh setup then run
+   npx playwright install
    ```
 
 3. **Install Allure CLI (globally)**
